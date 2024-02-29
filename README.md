@@ -1,8 +1,5 @@
 # supplychain
 
-Untuk mengakses dashboard, bisa dibuka ke link public tableau berikut :
-[Public Tableau](https://public.tableau.com/views/SupplyChain_17090415370290/Sheet3?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+Untuk mengetahui alur pengerjaan project ini, anda bisa buka link [medium]((https://medium.com/@muhamadfarididahlan/analisa-data-analisa-supply-chain-9cd7ae3ba4f7)
 
-Dataset yang digunakan : [dari folder dataset-tableau](./dataset-tableau/clean_supply_chain.rar)
-
-![Visualisasi di Public Tableau](./supplychains.png)
+Flow Project : dataset -> jupyter -> dataset-tableau -> tableau public
